@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubUser" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    
+    <style name="styleToolbar">
+        <item name="android:background">#dce3e9</item>
+    </style>
+
+    <style name="Theme.GithubUser" parent="Base.Theme.GithubUser" />
+</resources>
